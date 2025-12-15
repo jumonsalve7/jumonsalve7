@@ -28,8 +28,3 @@ Open to junior or trainee opportunities where curiosity and dedication matter.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,codepen,discord,github,nodejs,react)](https://skillicons.dev)
 
-
-🔥  Metrics: 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
