@@ -23,5 +23,8 @@ Open to junior or trainee opportunities where curiosity and dedication matter.
 
 📱 +351 910 819 027
 
+
+🛠️Programming Tools and Languages
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,codepen,discord,github,nodejs,react)](https://skillicons.dev)
 
